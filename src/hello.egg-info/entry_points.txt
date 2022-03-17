@@ -1,2 +1,2 @@
 [console_scripts]
-hello = hello:hello_world
+hello = lib.hello:hello_world
