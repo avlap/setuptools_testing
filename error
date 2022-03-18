@@ -1,5 +1,6 @@
-$ Traceback (most recent call last):
+$ hello
+Traceback (most recent call last):
   File "/home/archie/.local/bin/hello", line 5, in <module>
-    from hello import hello_world
-ImportError: cannot import name 'hello_world' from 'hello' (/home/archie/.local/lib/python3.10/site-packages/hello/__init__.py)
+    from lib.hello import hello_world
+ModuleNotFoundError: No module named 'lib.hello'
 
