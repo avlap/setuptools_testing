@@ -3,7 +3,6 @@ README.md
 pyproject.toml
 setup.cfg
 src/hello/__init__.py
-src/hello/__main__.py
 src/hello/hello.py
 src/hello.egg-info/PKG-INFO
 src/hello.egg-info/SOURCES.txt
