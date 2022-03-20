@@ -3,3 +3,4 @@ env
 *__pycache*
 *dist
 *dist*
+*egg-info
