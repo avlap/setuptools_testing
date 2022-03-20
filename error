@@ -1,6 +1,0 @@
-$ hello
-Traceback (most recent call last):
-  File "/home/archie/.local/bin/hello", line 5, in <module>
-    from lib.hello import hello_world
-ModuleNotFoundError: No module named 'lib.hello'
-
